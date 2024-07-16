@@ -8,7 +8,7 @@ public class Test2List {
 public static void main(String[] args) {
     Test2List pessoa= new Test2List();
     pessoa.adicionarPessoa();
-    pessoa.adicionarPessoa();
+    pessoa.adicionarPessoa(); 
 
 
 }
